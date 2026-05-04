@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-ebs6tp.1percentstr.com/sitemap.xml
